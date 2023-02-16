@@ -1,4 +1,3 @@
-<img align="right" height="590em" src="https://avatars.githubusercontent.com/u/62853184?v=4"/>
 <h1 align="left">Hi, I'm Brendon Sousa</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brendon-sn&color=blue" alt="Profile views" /> </p>
 
@@ -26,10 +25,16 @@
 </div>
 
 
+
+
+<br><br>
+
+## Git Historical 
+
 <div>
 <a href="https://github.com/brendon-sn">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=brendon-sn&show_icons=true&theme=github_dark&include_all_commits=true&count_private=false"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendon-sn&layout=compact&langs_count=8&theme=github_dark"/>
+<img align="left" height="160em" src="https://github-readme-stats.vercel.app/api?username=brendon-sn&show_icons=true&theme=github_dark&include_all_commits=true&count_private=false"/>
+<img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendon-sn&layout=compact&langs_count=8&theme=github_dark"/>
 </div>
 
-
+<img alt="github contribution snake animation" src="https://github.com/Carol42/Carol42/blob/output/github-contribution-grid-snake.svg">
