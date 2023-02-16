@@ -19,9 +19,9 @@
 ## Contact
 
 <div>
-<a href="https://www.instagram.com/brendon_sn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
-<a href = "mailto:sbrendon170@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/brendon-sousa/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>   
+<a href="https://www.instagram.com/brendon_sn/" target="_blank"><img src="https://img.shields.io/badge/-instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=0078D" ></a>
+<a href = "mailto:sbrendon170@gmail.com"><img src="https://img.shields.io/badge/-gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+<a href="https://www.linkedin.com/in/brendon-sousa/"><img src="https://img.shields.io/badge/-linkedIn-0D1117?style=for-the-badge&logo=linkedIn&logoColor=0078D4" ></a> 
 </div>
 
 
