@@ -29,7 +29,7 @@
 
 <br><br>
 
-## Git Activity 
+##  Git Activeness
 
 <div>
 <a href="https://github.com/brendon-sn">
