@@ -33,4 +33,3 @@
 </div>
 
 
-![Snake animation](https://github.com/brendon-sn/brendon-sn/blob/output/github-contribution-grid-snake.svg)
