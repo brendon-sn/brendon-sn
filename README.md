@@ -1,15 +1,15 @@
 <h1 align="left">Hi, I'm Brendon Sousa</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brendon-sn&color=blue" alt="Profile views" /> </p>
 
-- 🔥 Software Developer Full Stack 
+- Software Developer Full Stack 
 
-- 🔭 I’m currently working at Anvisa
+- I’m currently working at Anvisa
 
-- 🌱 I’m currently learning React.js and Node.js
+- I’m currently learning React.js and Node.js
 
-- 💬 Ask me about ** Java, Angular, JavaScript, HTML, CSS, SQL**
+- Ask me about ** Java, Angular, JavaScript, HTML, CSS, SQL**
 
-- 👨‍💻 More at [brendon-sn.dev](https://brendon-sn.github.io/Links/)
+- More at [brendon-sn.dev](https://brendon-sn.github.io/Links/)
 
 
 
