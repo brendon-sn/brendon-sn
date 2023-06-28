@@ -3,8 +3,6 @@
 
 - Software Developer Full Stack 
 
-- I’m currently working at Anvisa
-
 - I’m currently learning React.js and Node.js
 
 - Ask me about ** Java, Angular, JavaScript, HTML, CSS, SQL**
