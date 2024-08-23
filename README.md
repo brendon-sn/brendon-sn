@@ -3,9 +3,9 @@
 
 - Software Developer Full Stack 
 
-- I’m currently learning Data Structures and Algorithms
+- I’m currently learning React Native, Data Structures and Algorithms
 
-- Ask me about ** Java, Angular, JavaScript, HTML, CSS, SQL, Node.js e Jest **
+- Ask me about ** Java, Angular, JavaScript, HTML, CSS, SQL, Node.js, React.js e Jest **
 
 - More at [brendon-sn.dev](https://brendon-sn.github.io/Links/)
 
